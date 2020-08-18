@@ -23,12 +23,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-###### Change this to an h1 tag
-##### Change this to an h2 tag
-#### Change this to an h3 tag
-### Change this to an h4 tag
-## Change this to an h5 tag
-# Change this to an h6 tag
+# Change this to an h1 tag
+## Change this to an h2 tag
+### Change this to an h3 tag
+#### Change this to an h4 tag
+##### Change this to an h5 tag
+###### Change this to an h6 tag
 
 <hr>
 
@@ -36,12 +36,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- item 1
-- item 2
-- item 3
-- item 4
-- item 5
-- item 6
+1. item 1
+2. item 2
+3. item 3
+4. item 4
+5. item 5
+6. item 6
 
 <hr>
 
@@ -49,7 +49,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become! 
+*1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become!*
 
 <hr>
 
@@ -58,8 +58,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-![Your Image Should be here](/Images/Insert_the_CTP_Logo.png)
-
+![CUNY Tech Prep logo](https://github.com/WengsingVWong/CTP-Hackathon-Documentation-Workshop/blob/master/Images/CTP_Logo.jpg)
 **Note:** You can also embed images like this using URL's instead of the local file location! 
 Insert the URL inside the (Parenthesis) rather than the file location. 
 If your lost go into edit mode to see what I'm referring to!
@@ -72,14 +71,14 @@ If your lost go into edit mode to see what I'm referring to!
 
 **Recall:** The < img > tag in HTML is self closing! 
 
-<img src="wow HTML syntax works too? It's a markdown language as well!" style="You can set your desired dimensions here!" />
+<img src="https://github.com/WengsingVWong/CTP-Hackathon-Documentation-Workshop/blob/master/Images/CTP_Logo.jpg" alt="CUNY Tech Prep logo" style="height: 100%; width: 100%" />
 
 <hr>
 
 ### Challenge 6: Add a .gif file to this document: 
 *(Hint: Check the GIFs Folder, look for a file named Challenge_6.gif)* 
 
-![ Wait a minute this is exactly what we did before](/GIFs/The_Fun_Begins_Now.gif)
+![Challenge Accepted GIF](https://github.com/WengsingVWong/CTP-Hackathon-Documentation-Workshop/blob/master/GIFs/Challenge_6.gif)
 
 # Stretch Challenge: 
 ### For those of you who wish to surpass their limits, and go beyond!  
@@ -94,13 +93,13 @@ If your lost go into edit mode to see what I'm referring to!
 <hr>
 
 - Ubuntu 
-
+```
 $ sudo apt-get update
-
+```
 - Arch 
-
+```
 $ sudo pacman -Syu
-
+```
 <hr>
 
 ### Challenge 8: Add some ASCII Art without it being ruined using Markdown syntax highlighting:
@@ -111,12 +110,20 @@ $ sudo pacman -Syu
 You may copy and paste the following <a href="https://www.twitchquotes.com/copypastas/3100">ASCII art</a>
 
 ```
-PASTE YOUR ASCII ART HERE! 
-```
-
-Read and delete the line below when your editing it is not needed: 
-```
-$ echo One practical benefit of this is that when I have a really really long bash or shell command, and it might take up alot of lines, and it might be confusing to understand how to use it! But by making it a block element you can scroll through this line! :D 
+⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
+⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
+⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
+⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿ 
 ```
 
 *(Additional Hint: What is a back tick? It is also known as the '~' tilda key, 
@@ -141,6 +148,7 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 
 
 #### Here is the file structure for this repository make this into a block element so it doesn't look as messy: 
+```
 .
 ├── Images
 │   ├── CTP_Logo.png
@@ -151,7 +159,7 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 |   ├── Stretch Challenge Completed.gif
 |   ├── Challenge_6.gif
 |   
-
+```
 
 <hr>
 
