@@ -58,7 +58,8 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-![CUNY Tech Prep logo](https://github.com/WengsingVWong/CTP-Hackathon-Documentation-Workshop/blob/master/Images/CTP_Logo.jpg)
+![CUNY Tech Prep logo](/Images/CTP_Logo.jpg)
+
 **Note:** You can also embed images like this using URL's instead of the local file location! 
 Insert the URL inside the (Parenthesis) rather than the file location. 
 If your lost go into edit mode to see what I'm referring to!
@@ -93,13 +94,13 @@ If your lost go into edit mode to see what I'm referring to!
 <hr>
 
 - Ubuntu 
-```
-$ sudo apt-get update
-```
+
+        $ sudo apt-get update
+
 - Arch 
-```
-$ sudo pacman -Syu
-```
+
+        $ sudo pacman -Syu
+
 <hr>
 
 ### Challenge 8: Add some ASCII Art without it being ruined using Markdown syntax highlighting:
